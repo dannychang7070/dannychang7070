@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JavaScript and Java**
 
-- 📫 How to reach me [Mail Link](mailto:dannychang7070@gmail.com?subject=Hi%20Danny%2C%20I%20want%20to%20reach%20out%20to%20you...&body=Penny%20for%20your%20thought...)
+- 📫 How to reach me <a href="mailto:dannychang7070@gmail.com?subject=Hi%20Danny%2C%20I%20want%20to%20reach%20out%20to%20you...&body=Penny%20for%20your%20thought...">Mail Link</a>
 
 - 📄 Know about my experiences [Resume Link](https://www.dropbox.com/scl/fi/g9m4e99ecw6mgw66tngiv/Danny-Chang-Resume.pdf?rlkey=jjeyjq2zkn193whl1qmnjqxmt&st=2u0h01s9&dl=0)
 
